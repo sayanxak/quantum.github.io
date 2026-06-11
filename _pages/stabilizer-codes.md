@@ -13,16 +13,15 @@ Before reading this page, see [Pauli Groups]({{ site.baseurl }}/pauli-groups/).
 ## Definition 1: Stabilizer Code {#def-stabilizer-code}
 
 A **stabilizer code** is a subspace
-
-\[
+$
 C \subseteq (\mathbb{C}^2)^{\otimes n}
-\]
+$
 
 defined as the joint \(+1\)-eigenspace of an abelian subgroup
 
-\[
+$
 S \subseteq P_n.
-\]
+$
 
 We refer to this as [Definition 1](#def-stabilizer-code).
 
