@@ -14,7 +14,7 @@ These notes are meant to make quantum computing accessible to mathematicians.
 
 A central notion is that of a stabilizer code.
 
-See [Definition 1](/quantum.github.io/stabilizer-codes/#def-stabilizer).
+See [Definition 1](/quantum.github.io/stabilizer-codes/#thm-existence).
 
  [Hilbert Spaces](/quantum.github.io/hilbert-spaces/)
 
