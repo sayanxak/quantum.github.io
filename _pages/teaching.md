@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research plays a central role in my teaching as students improve their
+Let $A$ be a nice $C^*$ algebra.  Research plays a central role in my teaching as students improve their
 analytical skills and master the tools of data analysis through hands-on
 experience. I have taught undergraduate courses on political violence and
 statistical methodology. While at UNC, I taught the graduate statistics lab for
