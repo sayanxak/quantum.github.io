@@ -12,7 +12,7 @@ Before reading this page, see [Pauli Groups]({{ site.baseurl }}/pauli-groups/).
 
 ## Definition 1: Stabilizer Code {#def-stabilizer-code}
 
-A **stabilizer code** is a subspace
+A **stabilizer code** is a subspacefffffffffff
 $
 C \subseteq (\mathbb{C}^2)^{\otimes n}
 $
